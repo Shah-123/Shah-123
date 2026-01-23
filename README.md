@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨Creating predictive Models Since 2024<br>📚 I Am currently learning Gen AI + Agentic AI <br>🎯 In Feature I want to become A data scientist <br>🎲 Fun Fact Every time You meet will me the Same Person</p>
+<p align="left">✨Creating predictive Models Since 2024<br>📚 I Am currently learning Gen AI + Agentic AI <br>🎯 In Feature I want to become A data scientist <br>🎲 Fun Fact Every time You meet  me you will meet  the Same Person</p>
 
 ###
 
