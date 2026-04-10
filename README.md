@@ -1,35 +1,7 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+Hi, I'm Shahkar Ahmad an AI Engineer from Pakistan specialising in Agentic AI systems built with LangGraph and MCP.
 
-###
+My Final Year Project is a production-grade Multi-Agent AI Content Factory that autonomously researches, writes, fact-checks, and publishes blogs — complete with AI podcast and short-form video generation — powered by GPT-4o, Gemini 2.5 Flash, and LangGraph stateful orchestration.
 
-<p align="left">My name is Shahkar Ahmad Shah I am form Pakistan and Lets Connect</p>
+Currently building: LLM-powered agents · RAG pipelines · multi-modal AI systems
+Open to: remote AI Engineer roles & freelance projects
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨Creating predictive Models Since 2024<br>📚 I Am currently learning Gen AI + Agentic AI <br>🎯 In Feature I want to become A data scientist <br>🎲 Fun Fact Every time You meet  me you will meet  the Same Person</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-</div>
-
-###
